@@ -1,0 +1,32 @@
+/* Custom styles for the women-focused affiliate product website */
+
+/* Custom button styles */
+.btn-gradient {
+  background-image: linear-gradient(to right, #ec4899, #8b5cf6);
+  transition: all 0.3s ease;
+}
+
+.btn-gradient:hover {
+  background-image: linear-gradient(to right, #db2777, #7c3aed);
+  transform: translateY(-1px);
+}
+
+/* Custom card hover effects */
+.product-card {
+  transition: all 0.3s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* Custom animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-in;
+}

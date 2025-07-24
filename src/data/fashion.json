@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Elegant Summer Dress",
+    "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 49.99,
+    "rating": 4.7,
+    "reviews": 128,
+    "reviewSnippet": "This dress is absolutely perfect for summer events. The material is breathable and the fit is flattering!",
+    "affiliateLink": "https://www.amazon.com/dp/B07XYZABC"
+  },
+  {
+    "id": 2,
+    "title": "Designer Handbag",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 89.99,
+    "rating": 4.9,
+    "reviews": 256,
+    "reviewSnippet": "The quality of this bag exceeded my expectations. It's spacious and looks so elegant!",
+    "affiliateLink": "https://www.amazon.com/dp/B07ABCXYZ"
+  },
+  {
+    "id": 3,
+    "title": "Casual Denim Jacket",
+    "image": "https://images.unsplash.com/photo-1544022613-e87ca75a784a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 59.99,
+    "rating": 4.5,
+    "reviews": 87,
+    "reviewSnippet": "Perfect fit and great quality denim. This jacket goes with everything in my wardrobe!",
+    "affiliateLink": "https://www.amazon.com/dp/B07DEFXYZ"
+  },
+  {
+    "id": 4,
+    "title": "Stylish Ankle Boots",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 79.99,
+    "rating": 4.6,
+    "reviews": 112,
+    "reviewSnippet": "These boots are so comfortable and stylish. I've received so many compliments!",
+    "affiliateLink": "https://www.amazon.com/dp/B07GHIXYZ"
+  },
+  {
+    "id": 5,
+    "title": "Silk Scarf",
+    "image": "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 29.99,
+    "rating": 4.8,
+    "reviews": 64,
+    "reviewSnippet": "The colors are vibrant and the silk feels luxurious. A perfect accessory for any outfit!",
+    "affiliateLink": "https://www.amazon.com/dp/B07JKLXYZ"
+  }
+]

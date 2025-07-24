@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Floral Maxi Dress",
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 79.99,
+    "rating": 4.8,
+    "reviews": 156,
+    "reviewSnippet": "This dress is absolutely gorgeous! The fabric is high quality and the fit is perfect. I've received so many compliments!",
+    "affiliateLink": "https://www.amazon.com/dp/B09XYZABC"
+  },
+  {
+    "id": 2,
+    "title": "Women's Blazer",
+    "image": "https://images.unsplash.com/photo-1591085686350-798c0f9faa7f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 89.99,
+    "rating": 4.7,
+    "reviews": 124,
+    "reviewSnippet": "Perfect for work and casual outings. The material is breathable and the cut is very flattering.",
+    "affiliateLink": "https://www.amazon.com/dp/B09ABCXYZ"
+  },
+  {
+    "id": 3,
+    "title": "High-Waisted Jeans",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 59.99,
+    "rating": 4.6,
+    "reviews": 198,
+    "reviewSnippet": "These jeans are so comfortable and flattering! The high waist is perfect and they have just the right amount of stretch.",
+    "affiliateLink": "https://www.amazon.com/dp/B09DEFXYZ"
+  },
+  {
+    "id": 4,
+    "title": "Leather Ankle Boots",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 129.99,
+    "rating": 4.9,
+    "reviews": 87,
+    "reviewSnippet": "These boots are amazing quality and so comfortable. I can wear them all day without any discomfort.",
+    "affiliateLink": "https://www.amazon.com/dp/B09GHIXYZ"
+  },
+  {
+    "id": 5,
+    "title": "Cashmere Sweater",
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 149.99,
+    "rating": 4.8,
+    "reviews": 76,
+    "reviewSnippet": "This sweater is so soft and luxurious. It's warm without being bulky and looks great with everything.",
+    "affiliateLink": "https://www.amazon.com/dp/B09JKLXYZ"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Hydrating Face Serum",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 34.99,
+    "rating": 4.8,
+    "reviews": 215,
+    "reviewSnippet": "This serum has completely transformed my skin! It's so hydrating and my fine lines are less visible.",
+    "affiliateLink": "https://www.amazon.com/dp/B08XYZABC"
+  },
+  {
+    "id": 2,
+    "title": "Volumizing Mascara",
+    "image": "https://images.unsplash.com/photo-1631730359585-38a4935cbec4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 22.99,
+    "rating": 4.7,
+    "reviews": 342,
+    "reviewSnippet": "Best mascara I've ever used! No clumping and it stays on all day without smudging.",
+    "affiliateLink": "https://www.amazon.com/dp/B08ABCXYZ"
+  },
+  {
+    "id": 3,
+    "title": "Matte Lipstick Set",
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 39.99,
+    "rating": 4.6,
+    "reviews": 178,
+    "reviewSnippet": "These lipsticks are so pigmented and long-lasting. The colors are gorgeous for every season!",
+    "affiliateLink": "https://www.amazon.com/dp/B08DEFXYZ"
+  },
+  {
+    "id": 4,
+    "title": "Gentle Facial Cleanser",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 24.99,
+    "rating": 4.9,
+    "reviews": 267,
+    "reviewSnippet": "This cleanser removes all my makeup without drying out my sensitive skin. A holy grail product!",
+    "affiliateLink": "https://www.amazon.com/dp/B08GHIXYZ"
+  },
+  {
+    "id": 5,
+    "title": "Eyeshadow Palette",
+    "image": "https://images.unsplash.com/photo-1583241800698-e8ab01c85b24?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 45.99,
+    "rating": 4.8,
+    "reviews": 198,
+    "reviewSnippet": "The color payoff is amazing and the shades blend so easily. Perfect for both everyday and glam looks!",
+    "affiliateLink": "https://www.amazon.com/dp/B08JKLXYZ"
+  }
+]

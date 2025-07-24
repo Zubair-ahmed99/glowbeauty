@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Organic Cotton Onesie Set",
+    "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 29.99,
+    "rating": 4.9,
+    "reviews": 128,
+    "reviewSnippet": "These onesies are so soft and perfect for my baby's sensitive skin. The quality is excellent and they wash really well!",
+    "affiliateLink": "https://www.amazon.com/dp/B10XYZABC"
+  },
+  {
+    "id": 2,
+    "title": "Baby Sleep Sack",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 34.99,
+    "rating": 4.8,
+    "reviews": 156,
+    "reviewSnippet": "This sleep sack has been a game changer for our nighttime routine. My baby sleeps so much better and I feel confident knowing they're safe and warm.",
+    "affiliateLink": "https://www.amazon.com/dp/B10ABCXYZ"
+  },
+  {
+    "id": 3,
+    "title": "Silicone Baby Teether Set",
+    "image": "https://images.unsplash.com/photo-1594226801341-41427b4e5c22?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 15.99,
+    "rating": 4.7,
+    "reviews": 203,
+    "reviewSnippet": "These teethers are perfect for my baby's sore gums. They're easy to hold and the different textures seem to provide great relief.",
+    "affiliateLink": "https://www.amazon.com/dp/B10DEFXYZ"
+  },
+  {
+    "id": 4,
+    "title": "Baby Monitor with Camera",
+    "image": "https://images.unsplash.com/photo-1595586964632-b215dfbc064d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 149.99,
+    "rating": 4.8,
+    "reviews": 312,
+    "reviewSnippet": "This monitor has given us such peace of mind. The picture quality is excellent and the night vision works great. The two-way audio is also very useful.",
+    "affiliateLink": "https://www.amazon.com/dp/B10GHIXYZ"
+  },
+  {
+    "id": 5,
+    "title": "Baby Milestone Blanket",
+    "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "price": 24.99,
+    "rating": 4.9,
+    "reviews": 178,
+    "reviewSnippet": "This blanket is so adorable for monthly photos! The material is soft and the print is high quality. It's become a cherished keepsake of our baby's first year.",
+    "affiliateLink": "https://www.amazon.com/dp/B10JKLXYZ"
+  }
+]
