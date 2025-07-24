@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import ProductCard from './ProductCard';
 import { getCategoryFallbackImage } from '../utils/imageUtils';
+import productsData from '../data/products.json';
 
 const CategoryPage = ({ category, searchTerm }) => {
   const [products, setProducts] = useState([]);
@@ -24,6 +25,9 @@ const CategoryPage = ({ category, searchTerm }) => {
             if (categoryProducts) {
               const parsed = JSON.parse(categoryProducts);
               allProducts = [...allProducts, ...parsed];
+            } else if (productsData[cat] && productsData[cat].length > 0) {
+              // Fallback to JSON file data
+              allProducts = [...allProducts, ...productsData[cat]];
             }
           });
           
@@ -44,6 +48,13 @@ const CategoryPage = ({ category, searchTerm }) => {
           const parsedProducts = JSON.parse(localStorageProducts);
           console.log(`Loaded ${parsedProducts.length} products from localStorage for ${category}`);
           setProducts(parsedProducts);
+          return;
+        }
+        
+        // Fallback to JSON file data
+        if (productsData[category] && productsData[category].length > 0) {
+          console.log(`Loaded ${productsData[category].length} products from JSON file for ${category}`);
+          setProducts(productsData[category]);
           return;
         }
         

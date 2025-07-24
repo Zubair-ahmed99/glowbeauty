@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { getCategoryFallbackImage } from '../utils/imageUtils';
+import { exportAllProducts } from '../utils/exportProducts';
 
 const AdminPanel = () => {
   const navigate = useNavigate();
@@ -389,12 +390,20 @@ const AdminPanel = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-2xl font-semibold text-gray-800">Admin Panel</h1>
-          <button
-            onClick={handleLogout}
-            className="px-4 py-2 bg-gray-200 text-gray-700 rounded-md hover:bg-gray-300 transition-colors"
-          >
-            Logout
-          </button>
+          <div className="flex gap-3">
+            <button
+              onClick={exportAllProducts}
+              className="px-4 py-2 bg-green-500 text-white rounded-md hover:bg-green-600 transition-colors"
+            >
+              Export Products
+            </button>
+            <button
+              onClick={handleLogout}
+              className="px-4 py-2 bg-gray-200 text-gray-700 rounded-md hover:bg-gray-300 transition-colors"
+            >
+              Logout
+            </button>
+          </div>
         </div>
         
         <div className="bg-white rounded-lg shadow-sm p-6 mb-8">
